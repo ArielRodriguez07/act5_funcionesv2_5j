@@ -1,4 +1,4 @@
-# act5_funcionesv2_5j
+# act6_funcionesv2_5j
 ## codigo
 ![image](https://github.com/user-attachments/assets/27d03b92-91b2-4359-831b-cfaa27663abf)
 
