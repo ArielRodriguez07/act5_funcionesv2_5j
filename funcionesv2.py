@@ -16,3 +16,11 @@ print("imprime celulares de una lista ")
 verlista(celulares)
 print("imprime una lista de bandas de rock")
 verbanda(bandas)
+print("Esto es un ejemplo de diccionario")
+## diccionario
+audifonos = {
+  "marca": "apple",
+  "modelo": "version 1.9",
+  "año": 2024
+}
+print(audifonos)
