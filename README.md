@@ -1,5 +1,7 @@
 # act5_funcionesv2_5j
 ## codigo
-![image](https://github.com/user-attachments/assets/5798ff2f-ec32-4f80-9a79-1993f91363f2)
+![image](https://github.com/user-attachments/assets/27d03b92-91b2-4359-831b-cfaa27663abf)
+
 ## resultado
-![image](https://github.com/user-attachments/assets/a39c06b6-144c-41b3-93c2-87d2c5029c06)
+![image](https://github.com/user-attachments/assets/c275f7d2-eadd-4eb1-9923-a3d8f5d9f63e)
+
